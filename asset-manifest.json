@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tugas-react/static/css/main.69feda20.css",
+    "main.js": "/tugas-react/static/js/main.fb5a1dd9.js",
+    "static/js/787.354e309c.chunk.js": "/tugas-react/static/js/787.354e309c.chunk.js",
+    "static/media/mainbg.jpeg": "/tugas-react/static/media/mainbg.8cf0e80f2b01d8a0e028.jpeg",
+    "index.html": "/tugas-react/index.html",
+    "main.69feda20.css.map": "/tugas-react/static/css/main.69feda20.css.map",
+    "main.fb5a1dd9.js.map": "/tugas-react/static/js/main.fb5a1dd9.js.map",
+    "787.354e309c.chunk.js.map": "/tugas-react/static/js/787.354e309c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69feda20.css",
+    "static/js/main.fb5a1dd9.js"
+  ]
+}
